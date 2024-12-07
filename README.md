@@ -1,1 +1,1 @@
-# G12-Capstone-Project-Smart-Steering-Wheel-
+Smart steering wheel for enhanced driving experience is a project made to increase the safety of road driving by integrating some measured parameters including: Ethanol gas, heart rate, oxygen concentration, pressure on the steering wheel, and duration of eye closure. Each parameter was measured by sensors that power by Arduino UNO R4 and ESP-32 . The specifications of the CAM module is that it is integrated with an AI tool that indicates if the eye is closes or not.
